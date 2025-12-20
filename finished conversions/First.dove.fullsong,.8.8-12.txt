@@ -1,0 +1,39 @@
+                      GENESIS 8.8-12                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+C.( A/[ f.a.b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] B/[ a.a.a.f ] C/[ b.c.a.f.a ] B/[ g.a.b.f ] C/[ g.a.a.a ] A/[ a.d.b ] A/[ c.g.a ] C/[ g.a.a.a.g ])
+
+B.( F/[ f.b.a ] A/[ a.b.a.g ] G/[ g.a.f.g.g ] C/[ a.g.f.c ] B/[ b.c.c ] D/[ c.b.b.g ] B/[ f.a.b.c ] G/[ a.b.a.f ] C/[ a.b ] A/[ g.a.c.g ] A/[ c.a ] G/[ a.a.a ] C/[ d.b ] A/[ c.g.a ] B/[ c.b ] C/[ g.a.c.b ] A/[ f.a.b.b.c ] D/[ a.a.f ] A/[ f.a.a.c.g ] A/[ f.a.c.a ] F/[ a.a.g ] G/[ a.b.a.f ] C/[ a.b ] A/[ g.a.c.g ])
+
+A.( B/[ f.a.c.b ] A/[ d.f.a ] A/[ b.c.d.a ] A/[ a.a.a.a ] C/[ a.c.c.a.a ] F/[ f.a.f.c ] A/[ b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] D/[ a.g ] A/[ g.a.c.g ])
+
+B(*A+A).( D/[ f.a.c.a ] G/[ a.b.a.f ] G/[ g.a.f.g.g ] C/[ b.d.a ] D/[ d.c.c ] F/[ f.g.g.g ] C/[ d.b.g ] C/[ d.a.a ] F/[ b.c.c ] A/[ c.c.a.g ] B/[ f.a.a.d ] C/[ g.c ] A/[ c.a ] F/[ a.b.f ] C/[ g.a.a.a ] A/[ a.d.b ] C/[ g.a.c.b ])
+
+A(*A+C).( C/[ f.a.a.c.b ] A/[ d.f.a ] A/[ b.c.d.a ] A/[ a.a.a.a ] C/[ a.c.c.a.a ] A/[ f.a.b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] F/[ f.b.a ] G/[ a.f.c.g ] D/[ b.f.c ] G/[ a.b.a.f ] A/[ d.f.a ])
+
+
+
+           .CALCULATIONS for the total.
+
+5.main sections = the following =
+
+1 = 11 sections
+2 = 25 sections
+3 = 12 sections
+4 = 18 sections
+5 = 14 sections
+
+in total it has = 80 distinct sections on the song, and on average 16 sections per line (80 / 5 = 16) :
+
+numbers/ letters included in the whole song=
+
+1 = 41 letters
+2 = 84 letters
+3 = 41 letters
+4 = 60 letters
+5 = 52 letters
+
+total is = extraordinarily the number 278 (in average per section you have 3,475).
