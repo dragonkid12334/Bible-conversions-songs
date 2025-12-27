@@ -141,4 +141,5 @@ numbers/ letters included in the whole song=
 31 = 59 letters
 
 
+
 total is = extraordinarily the number 1.539 (in average per section you have 49,64516129032258 letters).
