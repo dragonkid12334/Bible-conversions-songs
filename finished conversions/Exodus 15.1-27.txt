@@ -1,0 +1,127 @@
+                     EXODUS 15.1-27                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+ 
+A.( F/[ a.d ] A/[ a.b.a.c ] C/[ a.b.g ] C/[ f.c.g.a ] C/[ a.b.c.a.b ] B/[ a.a ] C/[ g.b.a.c.g ] B/[ g.d.a.a ] B/[ b.a.g.f.g ] F/[ f.a.a.a.c.f ] A/[ b.a.a.c ] A/[ a.b.a.c.g ] B/[ b.a.g.f.g ] A/[ c.a ] G/[ b.a.g ] G/[ b.a.g ] G/[ f.f.f ] A/[ f.c.c.c.f ] D/[ c.a.g ] B/[ c.a.a ])
+
+C.( C/[ d.d.a ] F/[ f.d.a.c.a ] A/[ a.g ] D/[ f.a.g.a ] C/[ b.a ] F/[ b.a.b.f.d.g ] A/[ d.g ] A/[ a.b.a ]  A/[ f.a.g.f.g.f ] A/[ a.b.g.a ] B/[ a.c.a ] A/[ f.a.c.a.a.g.g.f ])
+
+B.( C/[ a.g.f.g ] A/[ a.a.b ] D/[ a.b.c.a.g ] C/[ a.g.f.g ] B/[ b.a.f ])
+ 
+A.( F/[ a.c.c.c.a ] D/[ c.c.d.g ] D/[ f.c.a.b.f ] A/[ a.c.g ] B/[ c.a.a ] G/[ f.a.c.c.c ] C/[ b.b.b.a.f ] B/[ b.c.d.f ] B/[ c.a.a ] D/[ f.f.c ])
+
+G.( C/[ a.g.a.a ] A/[ a.c.f.a.a.f ] D/[ a.c.a.f ] B/[ c.a.b.f.b.a ] C/[ c.a.f ] A/[ a.c.g ])
+
+F.( G/[ a.a.a.g.c ] C/[ a.g.f.g ] G/[ g.a.a.c.a ] C/[ c.c.c ] G/[ a.a.a.g.c ] C/[ a.g.f.g ] D/[ a.c.d.b ] A/[ a.f.a.c ])
+
+D.( F/[ f.c.c.c ] B/[ b.a.f.g.c ] C/[ a.g.c.f ] C/[ a.a.a.c ] B/[ a.b.b.c ] C/[ c.c.g.c ] D/[ a.a.c.b.a.f ] C/[ c.a.b ])
+
+C.( D/[ f.c.c.f.c ] F/[ a.c.a.c ] D/[ g.d.c.a.f ] G/[ a.a.a ] D/[ g.b.c.f ] C/[ c.a.f ] D/[ g.a ] B/[ g.d.b.a.a ] A/[ a.c.a.f ] C/[ a.g.a.a ] B/[ c.b.c ] B/[ a.a ])
+
+B.( B/[ a.a.c ] A/[ a.f.a.c ] B/[ a.c.a.c ] C/[ a.b.a.b ] D/[ a.c.b.a ] C/[ b.b.b ] B/[ a.a.b.a.a.f ] C/[ g.c.b.a ] C/[ a.c.a.a ] D/[ c.c.c.a ] G/[ a.f.c.a.b.a.f ] C/[ a.a.a ])
+
+A.( G/[ g.b.c.a ] B/[ c.c.f.c.c ] B/[ c.f.a.f ] B/[ a.a ] F/[ b.b.b.f ] A/[ c.d.f.c.c.a ] G/[ c.a.a.a ] B/[ a.a.a.c.a.a ])
+
+B(*A+A).( B/[ a.a ] D/[ c.a.c.g ] A/[ c.a.b.a ] C/[ a.g.f.g ] B/[ a.a ] D/[ c.a.c.g ] F/[ g.a.a.c ] A/[ c.a.a.b ] C/[ g.f.c.a ] A/[ a.g.b.a ] C/[ d.b.g ] C/[ c.b.a ])
+
+A(*A+C).( A/[ g.b.a.a ] G/[ a.a.a.g.c ] D/[ a.c.b.d.a.f ] C/[ a.c.b ])
+
+C(*A+B).( B/[ g.c.a.a ] G/[ c.c.f.a.c ] B/[ d.a ] C/[ d.f ] G/[ b.a.b.a ] C/[ g.g.b.a ] B/[ c.d.d.c ] C/[ a.b ] B/[ g.f.g ] A/[ a.a.b.c ])
+
+B(*A+A).( G/[ b.a.d.f ] A/[ d.a.a.a ] G/[ a.c.b.d.f.g ] C/[ c.a.b ] B/[ a.c.d ] A/[ a.b.c.a ] B/[ c.b.b.a ])
+
+A(*B+F).( F/[ a.d ] A/[ g.c.g.b.f ] C/[ a.b.f.c.a ] B/[ a.a.f.a ] B/[ a.a.b.a ] D/[ a.f.a.c ] C/[ a.a.c.d.a.f ] B/[ c.d.a ] B/[ g.a.b.f ] B/[ c.b ] A/[ a.b.c.a ] A/[ c.g.d.g ])
+
+G(*B+D).( C/[ a.c.b ] B/[ d.b.a.g.a ] D/[ a.a.a.a.g ] C/[ f.c.c.a ] F/[ c.b.a.b ] D/[ d.c.f.d.c ] B/[ a.a.a.f ] A/[ c.a.c.g ] B/[ d.a ] F/[ a.d.c.c ] B/[ d.a.c ] C/[ a.g.f.g ] B/[ d.a ] F/[ a.d.c.c ] B/[ d.a ] C/[ d.f ] G/[ a.g.a.a ])
+
+F(*A+D).( B/[ a.c.a.a.f ] C/[ f.a.b.d.a.f ] G/[ c.g.c ] G/[ g.c.b.a.c ] C/[ a.c.f.g ] F/[ b.b.c.a.c ] D/[ c.d.b.a ] C/[ a.g.f.g ] F/[ a.a.a.b ] G/[ a.a.g.a ] D/[ c.f.g.g.f ] C/[ a.a.a.c ])
+
+D(*A+C).( C/[ a.g.f.g ] B/[ a.a.b.c ] C/[ b.d.b.a ] A/[ f.d.a ])
+
+C(*A+B).( A/[ c.a ] A/[ c.a ] G/[ f.f.f ] D/[ c.c.d.g ] F/[ c.c.c.c.f ] F/[ f.c.c.c.b.a.g ] B/[ c.a.a ] F/[ f.a.b.c ]  C/[ a.g.f.g ] A/[ d.b.g.a ] B/[ a.a ] B/[ a.a ] F/[ g.a.a ] C/[ f.c.g.a ] C/[ a.b.c.a.b ] A/[ g.b.c.f ] G/[ c.a.c.b.g ] C/[ c.a.f.c ] F/[ g.a.a ])
+
+C.( A/[ f.a.a.c ] G/[ a.c.a.a ] B/[ g.g.c.a.a.g ] A/[ a.c.f.a ] D/[ a.g.c.g ] B/[ a.a ] A/[ g.a.c ] F/[ c.a.a.g ]  C/[ f.a.b.a.g ] B/[ c.b ] A/[ g.g.b.a.a ] B/[ a.c.c.a.g ] C/[ c.a.c.a.a ] C/[ f.c.a.c.b.a ])
+
+A(*C+A).( D/[ f.a.d.g ] C/[ b.g.a ] G/[ a.c.a.a ] F/[ b.a.c.f ] B/[ b.a.g.f.g ] A/[ c.a ] G/[ b.a.g ] G/[ b.a.g ] G/[ f.f.f ] A/[ f.c.c.c.f ] D/[ c.a.g ] B/[ c.a.a ])
+
+C(*C+C).( G/[ f.a.f.d ] C/[ a.b.g ] B/[ a.a ] C/[ a.b.c.a.b ] G/[ a.a.a ] D/[ f.f.c ] F/[ f.a.b.a.f ] C/[ a.b ] F/[ a.a.c.c ] D/[ b.f.c ] A/[ f.a.b.c.f ] D/[ b.b.b.a ] A/[ a.a.a.a ] F/[ c.a.a.c.c ] F/[ f.b.a ] G/[ a.b.a.f ] G/[ a.a.a ])
+
+B(*C+B).( C/[ f.a.c.a.f ] B/[ a.c.a.g ] F/[ f.b.a ] F/[ a.c.b.f ] C/[ b.b.a.a ] G/[ a.a.a ] B/[ a.a.c.g ] A/[ c.a ] G/[ a.c.a.a ] D/[ g.a ] C/[ d.b ] G/[ c.g ] B/[ a.c.a ] C/[ b.a.g ] D/[ a.c.g ])
+
+A(*C+A).( A/[ f.a.b.g.f ] B/[ g.d.a ] C/[ d.b ] C/[ a.b.g ] A/[ b.a.a.c ] D/[ a.g ] C/[ g.b.a.g ])
+
+G(*C+G).( D/[ f.a.b.d.a ] C/[ a.b ] C/[ a.g.f.g ] D/[ f.a.f.c.g.f ] C/[ a.g.f.g ] G/[ d.b ] D/[ f.a.b.b.c ] C/[ a.b ] C/[ g.a.a.a ] B/[ f.a.a.a.a.f ] C/[ g.a.a.a ] G/[ b.a ] G/[ b.a ] D/[ b.f ] D/[ c.a ] A/[ f.a.b.c.b ] B/[ f.b.a ] D/[ .g.f.g.f ])
+
+F(*C+F).( F/[ f.a.a.a.c ] B/[ a.a ] A/[ b.a.f.d ] B/[ a.b.a.d ] D/[ b.a.f.b ] C/[ a.g.f.g ]  A/[ a.a.g.a.c ] B/[ f.g.a.b.c ] B/[ c.d.a.g.a.f ] A/[ a.d.b.g ] B/[ f.g.a.d.g.a ] B/[ b.a.b.f.a.a.f ] C/[ f.b.a.c.a ] B/[ c.b ] A/[ c.a.a.f ] B/[ c.b ] C/[ g.a.c.b.g ] C/[ a.b.c ] F/[ b.a.a.a ] B/[ c.a.b.c.a.a ] C/[ b.a ] B/[ a.b.a.a ] D/[ d.b.a.c ] A/[ c.a ] B/[ a.g.a ] C/[ a.g.f.g ] D/[ c.c.a.c ])
+
+D(*C+D).( C/[ f.a.c.a.f ] C/[ a.a.b.a.g ] B/[ f.b.a ] A/[ b.a.a.a ] C/[ d.b.c.g ] C/[ d.a.g.a ] G/[ a.a.a ] A/[ f.b.c.d.a.a ] D/[ a.a.c.a.a ] B/[ f.a.c.g.f ] G/[ b.a ] C/[ d.b ] C/[ g.a.a.a ])
+
+
+           .CALCULATIONS for the total.
+
+27.main sections = the following =
+
+1 = 21 sections
+2 = 13 sections
+3 = 6 sections
+4 = 11 sections
+5 = 7 sections
+6 = 9 sections
+7 = 9 sections
+8 = 13 sections
+9 = 13 sections
+10 = 9 sections
+11 = 13 sections
+12 = 5 sections
+13 = 11 sections 
+14 = 8 sections
+15 = 13 sections
+16 = 18 sections
+17 = 13 sections
+18 = 5 sections 
+19 = 20 sections
+20 = 15 sections
+21 = 13 sections
+22 = 18 sections
+23 = 16 sections
+24 = 8 sections
+25 = 19 sections
+26 = 28 sections
+27 = 13 sections
+
+in total it has = 347 distinct sections on the song, and on average  sections per line ( 347/ 27 = 12,85185185185185) :
+
+numbers/ letters included in the whole song=
+
+1 = 77 letters
+2 = 49 letters
+3 = 20 letters
+4 = 41 letters
+5 = 27 letters
+6 = 35 letters
+7 = 35 letters
+8 = 45 letters
+9 = 51 letters
+10 = 36 letters
+11 = 44 letters
+12 = 20 letters
+13 = 36 letters 
+14 = 30 letters
+15 = 49 letters
+16 = 63 letters
+17 = 55 letters
+18 = 17 letters 
+19 = 72 letters
+20 = 60 letters
+21 = 44 letters
+22 = 64 letters
+23 = 50 letters
+24 = 25 letters
+25 = 66 letters
+26 = 112 letters
+27 = 54 letters
+
+
+total is = extraordinarily the number 1.277 (in average per section you have 47,2962962962963 letters).
