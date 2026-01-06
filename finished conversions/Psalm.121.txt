@@ -10,7 +10,7 @@ C.( C/[ d.d.c.a ] C/[ a.d.a ] C/[ a.g.f.g ] C/[ d.b.g ] F/[ b.a.a.a ] B/[ f.a.c.
 
 B.( C/[ a.b ] F/[ a.a.g ] D/[ b.a.f.b ] A/[ c.b.b.c ] C/[ a.b ] A/[ a.g.f.a ] G/[ b.a.c.c ])
 
-A.( C/[ g.g.g ] C/[ b.a ] G/[ a.g.f.a ] F/[ f.b.a ] A/[ a.a.b.g ] B/[ b.f.a.c ] C/[ a.b.c.a.b ])
+A.( C/[ g.g.g ] C/[ b.a ] A/[ a.g.f.a ] F/[ f.b.a ] A/[ a.a.b.g ] B/[ b.f.a.c ] C/[ a.b.c.a.b ])
 
 G.( C/[ a.g.f.g ] G/[ b.a.c.c ] C/[ a.g.f.g ] A/[ b.b.c ] C/[ d.b ] B/[ a.a ] G/[ a.a.a.g.c ])
 
@@ -48,6 +48,7 @@ numbers/ letters included in the whole song=
 6 = 24 letters
 7 = 25 letters
 8 = 29 letters
+
 
 
 total is = extraordinarily the number 211 (in average per section you have 26,375 letters).
