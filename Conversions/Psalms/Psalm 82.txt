@@ -1,0 +1,74 @@
+                      PSALM 82                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+A.( F/[ a.d.a.f.c ] B/[ b.a.f.c ] F/[ a.b.g.a.a ] B/[ g.b.c ] C/[ c.d.a.a ] C/[ a.b ] A/[ c.a.c.c ] F/[ a.b.g.a.a ] F/[ a.b.c.b ])
+
+C.( B/[ d.a ] G/[ a.a.a ] A/[ a.b.c.b.f ] B/[ d.f.b ] G/[ f.c.g.a ] B/[ c.b.d.a.a ] C/[ a.b.a.f ] A/[ f.b.g ])
+
+B.( C/[ b.c.b.f ] G/[ a.b ] A/[ f.a.a.f.a ] B/[ d.g.a ] D/[ f.c.b ] D/[ g.b.a.a.a.f ])
+
+A.( C/[ c.b.b.f ] G/[ d.b ] C/[ f.a.c.a.f.g ] G/[ a.a.a ] B/[ c.b.d.a.a ] D/[ g.b.a.b.f ])
+
+G.( C/[ b.a ] B/[ a.a.d.f ] F/[ f.b.a ] D/[ a.c.a.g.f ] B/[ c.c.b.c.g ] C/[ a.a.g.b.c.f ] B/[ a.a.f.b.f ] B/[ c.b ] A/[ a.f.f.a.a ] C/[ a.c.b ])
+
+F.( B/[ a.g.a ] A/[ a.a.c.a.a ] F/[ a.b.g.a.a ] G/[ a.a.a ] C/[ f.c.g.a ] G/[ d.b.a.f.g ] G/[ c.b.c.a ])
+
+D.( A/[ a.c.g ] G/[ c.a.a.a ] A/[ a.a.f.a.f.g ] A/[ f.c.a.c.a ] D/[ g.b.c.a.a ] F/[ a.c.b.f ])
+
+C.( A/[ a.f.a.g ] F/[ a.b.g.a.a ] A/[ b.c.b.g ] C/[ g.a.c.b ] A/[ c.a ] F/[ a.a.a ] G/[ a.g.c.b ] B/[ c.c.b ] C/[ g.b.f.a.a ])
+
+
+
+           .CALCULATIONS for the total.
+
+8.main sections = the following =
+
+1 = 10 sections
+2 = 9 sections
+3 = 7 sections
+4 = 7 sections
+5 = 11 sections
+6 = 8 sections
+7 = 7 sections
+8 = 10 sections
+
+
+in total it has = 69 distinct sections on the song, and on average 8,625 sections per line (64 / 8 = 8,625) :
+
+numbers/ letters included in the whole song=
+
+1 = 37 letters
+2 = 30 letters
+3 = 24 letters
+4 = 26 letters
+5 = 41 letters
+6 = 30 letters
+7 = 28 letters
+8 = 35 letters
+
+
+total is = extraordinarily the number 251 (in average per section you have 31,375 letters).
+
+Scripture (KJV) :
+
+                Psalm.82.1-8
+
+1. (A Psalm of Asaph.) God standeth in the congregation of the mighty; he judgeth among the gods.
+
+2. How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+
+3. Defend the poor and fatherless: do justice to the afflicted and needy.
+
+4. Deliver the poor and needy: rid them out of the hand of the wicked.
+
+5. They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+
+6. I have said, Ye are gods; and all of you are children of the most High.
+
+7. But ye shall die like men, and fall like one of the princes.
+
+8. Arise, O God, judge the earth: for thou shalt inherit all nations.
+

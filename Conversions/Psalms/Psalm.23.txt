@@ -1,0 +1,60 @@
+                      PSALM 23                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+A.( F/[ a.d.a.f.c ] C/[ b.a.f.a ] C/[ a.g.f.g ] F/[ c.d.a ] C/[ b.a ] C/[ a.c.f.c ])
+
+C.( A/[ c.g.a.f.a ] A/[ a.b.a ] B/[ a.c.c.a.b.g.a ] C/[ d.b ] B/[ a.a ] A/[ a.g.c.f.a ] A/[ a.g.g.b.g.a ])
+
+B.( C/[ g.c.b.a ] D/[ a.b.f.c.c ] B/[ a.g.c.g.a ] A/[ c.a.d.b.b.a ] A/[ b.a.a ] A/[ b.a.d.g ])
+
+A.( G/[ b.a ] A/[ c.a ] C/[ a.b.c ] A/[ c.b.a.a ] B/[ b.b.a.f.a ] C/[ b.a ] C/[ a.a.c.a ] D/[ c.d ] A/[ c.a ] F/[ a.a.g ] A/[ d.a.a.a ] A/[ b.c.b.c ] C/[ f.a.b.d.g.a.c ] A/[ g.a.g ] G/[ a.g.c.a.g.a ])
+
+G.( B/[ a.d.c.c ] C/[ b.c.g.a ] A/[ b.b.c.g ] F/[ g.b.a.b.c.c ] A/[ a.b.g.a ] C/[ c.b.a.g ] A/[ c.a.b.a ] B/[ c.f.f.a ] C/[ c.f.a.g ])
+
+F.( A/[ a.c ] A/[ b.f.c ] B/[ f.c.f.a ] F/[ a.c.a.c.f.g.a ] B/[ c.b ] C/[ a.a.a ] F/[ c.a.a ] C/[ f.b.c.a.a ] B/[ c.c.a.a ] C/[ a.g.f.g ] C/[ b.a.c.c ] A/[ a.a.a.a ])
+
+
+
+
+           .CALCULATIONS for the total.
+
+6.main sections = the following =
+
+1 = 7 sections
+2 = 8 sections
+3 = 7 sections
+4 = 16 sections
+5 = 10 sections
+6 = 13 sections
+
+in total it has = 61 distinct sections on the song, and on average 10,16666666666667 sections per line (61 / 6 = 10,16666666666667) :
+
+numbers/ letters included in the whole song=
+
+1 = 23 letters
+2 = 31 letters
+3 = 28 letters
+4 = 54 letters
+5 = 39 letters
+6 = 46 letters
+
+total is = extraordinarily the number 221 (in average per section you have 36,83333333333333).
+
+Scripture (KJV) :
+
+                Psalm.23.1-6
+
+1. (A Psalm of David.) The LORD is my shepherd; I shall not want.
+
+2. He maketh me to lie down in green pastures: he leadeth me beside the still waters.
+
+3. He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake.
+
+4. Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.
+
+5. Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
+
+6. Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.
