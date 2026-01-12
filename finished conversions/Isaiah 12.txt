@@ -1,0 +1,41 @@
+                      ISAIAH 12                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+A.( B/[ f.a.a.c.a ] D/[ c.a.f.a ] C/[ g.g.f.a ] D/[ a.f.a.c ] C/[ a.g.f.g ] A/[ c.a ] B/[ a.g.c.a ] A/[ c.a ] C/[ a.b.c ] D/[ a.c.c ] B/[ f.a.g.c.a.g.a ])
+
+C.( C/[ g.g.g ] C/[ a.b ] B/[ a.b.f.d.a.a ] G/[ a.c.b.c ] F/[ f.b.a ] F/[ a.c.c.a ] A/[ c.a ] C/[ d.d.a ] F/[ f.d.a.c.a ] A/[ a.g ] C/[ a.g.f.g ] D/[ f.a.g.a ] C/[ b.a ] F/[ b.a.b.f.d.g ])
+
+B.( A/[ f.b.a.c.a.a ] G/[ a.a.a ] C/[c.b.b.f.g ] B/[ a.a.d.a.g.a ] C/[ g.a.b.f.d.g ])
+
+A.( C/[ f.a.a.c.a.a ] D/[ c.a.f.a ] C/[ g.g.f.a ] F/[ g.f.a.f ] B/[ b.a.g.f.g ] A/[ a.c.a.f ] B/[ c.b.a.f ] A/[ g.f.a.a.d.f ] A/[ c.d.a.a.a ] A/[ d.b.a.b.a.a.f ] A/[ g.d.c.a.c.f ] A/[ c.a ] D/[ g.b.b.c ] B/[ b.a.f ])
+
+G.( A/[ d.a.c.f ] C/[ a.g.f.g ] A/[ c.a ] C/[ b.a.f.a ] C/[ d.b.g ] B/[ a.a.a.d.a ] C/[ a.f.a.d.a ] C/[ d.a.a ] C/[ c.c.b ] C/[ g.a.c.b ])
+
+F.( B/[ b.g.b.a ] C/[ f.c.g.a ] C/[ a.f.b.a ] F/[ b.a.f.g ] A/[ c.a ] A/[ b.a.f.b ] A/[ c.a.c.c.c ] C/[ a.a.f.b ] C/[ a.b.c.a.b ])
+
+           .CALCULATIONS for the total.
+
+6.main sections = the following =
+
+1 = 12 sections
+2 = 15 sections
+3 = 6 sections
+4 = 15 sections
+5 = 11 sections
+6 = 10 sections
+
+in total it has = 69 distinct sections on the song, and on average  sections per line ( 69/ 6 = 11,5) :
+
+numbers/ letters included in the whole song=
+
+1 = 43 letters
+2 = 50 letters
+3 = 27 letters
+4 = 65 letters
+5 = 38 letters
+6 = 37 letters
+
+total is = extraordinarily the number 260 (in average per section you have 43,33333333333333 letters).
