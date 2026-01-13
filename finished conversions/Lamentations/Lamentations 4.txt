@@ -1,0 +1,156 @@
+                    LAMENTATIONS 4                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+A.( B/[ a.a.c.g ] B/[ a.f.d.a ] A/[ d.g.c ] A/[ a.b.g.a ] B/[ g.c.a.a ] D/[ g.b.f.c ] A/[ a.b.a.c.c.g.g ] B/[ a.c.g.a ] A/[ a.a.b ] C/[ c.c.a.b ] B/[ c.b ] A/[ g.f.b.f.a ])
+
+C.( A/[ c.g.a ] F/[ b.a.f.g ] A/[ g.a.a.c.a.a ] B/[ g.a.f.b.a.a.a ] A/[ c.c.d ] B/[ a.a.c.g ] D/[ g.c.b.c.f ] F/[ b.g.c.b.a ] B/[ g.c.b ] A/[ a.d.b.g ] C/[ a.a.a ] B/[ a.f.b.c ])
+
+B.( G/[ b.a ] B/[ a.g.a.g ] C/[ c.b.b.f ] G/[ b.c ] B/[ g.a.g.a.a.f ] B/[ b.f.c.a.g.g ] A/[ c.a ] C/[ d.a.a ] D/[ b.a.c.d.c ] A/[ c.a ] C/[ d.g.a.a ] F/[ c.a.a.c.c ])
+
+A.( B/[ a.c.a ] C/[ b.b.f.g ] D/[ a.f.g.a ] C/[ a.b ] B/[ c.c.f ] A/[ c.b.a.a ] G/[ d.f.b.b.a.a ] D/[ b.a.b.f ] C/[ b.c.a ] B/[ c.c.b ] B/[ a.a.g ] C/[ b.g.a ])
+
+G.( F/[ g.a.c.b.a.a ] D/[ b.a.d.a.g.a.a ] B/[ g.b.a.f ] D/[ c.c.f.b.f.a ] A/[ g.a.a.g.a.a ] D/[ d.b.a ] G/[ a.f.b.d ] B/[ c.c.a.f ] D/[ a.b.c.a.f.a ])
+
+F.( B/[ f.a.b.a.b ] G/[ d.f.g ] A/[ c.a ] C/[ d.a.a ] B/[ a.c.b.a.a ] A/[ f.a.a ] B/[ g.g.c.f.c.g ] C/[ c.a.f ] C/[ c.b.d ] F/[ f.b.a ] A/[ c.b.f ] G/[ c.g ] A/[ a.a.a.a ])
+
+D.( C/[ d.c.f ] C/[ g.d.a.c.a.g ] D/[ a.b.b.b ] A/[ b.c.f ] C/[ a.c.b.c ] B/[ a.a.a.f ] D/[ d.b.a ] D/[ a.c.g.a.g.a.a ] C/[ f.c.a.c ] B/[ b.d.c.a.a ])
+
+C.( B/[ c.b.c ] F/[ a.b.c.f.c ] G/[ a.a.c.a ] C/[ b.a ] B/[ g.c.c.f ] D/[ c.c.f.b.f.a ] C/[ b.c.a ] A/[ d.f.c.a ] C/[ d.b ] B/[ d.b.a.a ] C/[ a.c.b ] D/[ g.a.g ] G/[ c.d.b ])
+
+B.( G/[ b.f.c.a.a ] C/[ g.a.f ] B/[ c.b.b.a ] C/[ c.c.c ] C/[ a.c.b.b.a ] D/[ c.d.c ] C/[ b.g.a ] A/[ a.d.c.f ] F/[ a.a.a.c.a.a ] F/[ a.a.g.f.c.a ] A/[ b.a.a ])
+
+A.( C/[ a.a.a ] D/[ g.b.a.a ] B/[ c.c.a.g.a.f.a ] C/[ c.b.b.f ] B/[ a.b.a.a.g.g ] C/[ g.a.f ] B/[ b.c.c.f.a ] B/[ b.a.f ] B/[ c.b.c.c ] A/[ c.a ] C/[ d.a.a ])
+
+B(*A+A).( F/[ c.b.g ] C/[ a.g.f.g ] B/[ a.a ] D/[ c.a.a.f ] B/[ b.c.c ] F/[ c.c.f.g ] C/[ a.c.f ] G/[ f.a.b.a ] C/[ a.b ] F/[ c.b.a.f.g ] C/[ f.a.a.c.b ] C/[ a.f.a.a.a.g ])
+
+A(*A+C).( C/[ b.a ] B/[ g.a.a.a.g.f ] A/[ a.b.c.a ] C/[ a.c.b ] D/[ f.c.b ] A/[ a.b.c.a ] G/[ a.c.b ] A/[ c.a ] B/[ a.c.a ] B/[ b.c ] C/[ f.a.f.a.c ] D/[ c.b.d.c.a ] B/[ a.c.f.b.b.a ])
+
+C(*A+B).( A/[ a.c.b.a.f.a ] G/[ f.c.a.a.a.g ] D/[ d.f.g.a ] A/[ c.g.g.a.g ] A/[ g.b.c.c.a.a ] A/[ c.a.c.c.g ] F/[ a.a ] A/[ b.a.a.a.a.a ])
+
+B(*A+A).( G/[ g.d.f ] B/[ d.f.c.a.a ] D/[ c.c.f.b.f.a ] A/[ g.b.a.b.f ] F/[ c.a.a ] C/[ c.b.a ] A/[ a.f.c.b.f ] C/[ a.b.d.f ] C/[ c.b.c.b.a.g.a ])
+
+A(*B+F).( G/[ f.f.c.f ] A/[ b.a.a ] A/[ a.c.a.f ] B/[ b.a.f ] G/[ f.f.c.f ] G/[ f.f.c.f ] C/[ a.b ] G/[ a.b.d.f ] A/[ c.a ] D/[ g.b.f ] G/[ b.a ] G/[ g.d.f ] D/[ a.a.c.f ] C/[ c.b.f.a.a ] C/[ b.a ] A/[ a.f.f.c.f ] C/[ b.b.f.c ])
+
+G(*B+D).( A/[ c.g.a ] C/[ a.g.f.g ] A/[ c.b.a.a ] C/[ b.a ] G/[ a.f.f.a.c ] G/[ b.g.c.a.b.a ] A/[ c.g.a ] B/[ c.g.g.a.a ] C/[ b.a ] B/[ g.b.a.f ] A/[ d.a.g.a.a ] C/[ b.a ] B/[ c.g.g.f ])
+
+F(*A+D).( B/[ d.f.a.a.g.g ] A/[ a.c.b.a.g.g ] F/[ d.a.g.a.g.f ] C/[ a.b ] B/[ d.d.c.a.g.f ] F/[ g.c.b ] G/[ c.b.c.a.a.g.f ] B/[ b.c.a.g.f ] C/[ a.b ] F/[ g.f.a ] C/[ b.a ] C/[ a.f.b.d ])
+
+D(*A+C).( F/[ b.a.f ] A/[ b.d.a.a.g.f ] D/[ a.b.c.a ] D/[ c.c.c.c.a.a.g.f ] A/[ a.c.c ] D/[ a.b.g.f ] C/[ a.b.a.f ] B/[ a.a.a.g.f ] A/[ c.a ] A/[ c.a ] F/[ a.b.g.f ])
+
+C(*A+B).( B/[ a.b.a.a ] C/[ g.a.f ] D/[ c.a.c.a.g.f ] C/[ a.g.b.c.a ] F/[ b.a.a.a ] C/[ d.b ] B/[ g.g.c.a.a ] C/[ a.b.a.g.f ] F/[ c.a.a.c.c ] F/[ a.c.c.f ] A/[ b.g.f ])
+
+C.( B/[ c.f.c ] A/[ a.c.a.g.f ] A/[ a.b.a.c ] C/[ a.g.f.g ] C/[ g.b.c.a ] B/[ c.b.c.a.a.f.a.a ] C/[ a.b.c ] A/[ a.a.c.g.f ] G/[ c.b.b.f ] A/[ g.c.a.g ] C/[ c.b.f.a.a ])
+
+A(*C+A).( C/[ b.a.b.a ] G/[ f.b.a.c.a ] A/[ c.a ] B/[ a.a.f.a ] D/[ a.f.b.c.a.a ] C/[ c.a.c.b ] B/[ d.f.b ] G/[ b.a ] D/[ d.b.a.c ] B/[a.d.c.c ] A/[ c.f.f ] A/[ a.b.c.c.a ] G/[ f.a.a.d.c.a ])
+
+C(*C+C).( F/[ a.a ] G/[ d.f.g.c ] A/[ c.a ] F/[ b.a.f.g ] C/[ b.a ] G/[ a.f.f.a.c ] G/[ b.g.b.b.f.a.c ] B/[ c.a.a ] G/[ d.f.g.c ] A/[ c.a ] B/[ a.a.f.a ] D/[ b.b.g ] C/[ d.b ] F/[ g.b.a.a.a.c ])
+
+
+
+           .CALCULATIONS for the total.
+
+22.main sections = the following =
+
+1 = 13 sections
+2 = 13 sections
+3 = 15 sections
+4 = 13 sections
+5 = 10 sections
+6 = 14 sections
+7 = 11 sections
+8 = 14 sections
+9 = 12 sections
+10 = 12 sections
+11 = 13 sections
+12 = 15 sections
+13 = 9 sections 
+14 = 10 sections
+15 = 18 sections
+16 = 15 sections
+17 = 14 sections
+18 = 12 sections 
+19 = 12 sections
+20 = 12 sections
+21 = 14 sections
+22 = 15 sections
+
+in total it has = 298 distinct sections on the song, and on average  sections per line ( 298/ 22 = 13,54545454545455) :
+
+numbers/ letters included in the whole song=
+
+1 = 49 letters
+2 = 52 letters
+3 = 56 letters
+4 = 43 letters
+5 = 47 letters
+6 = 46 letters
+7 = 44 letters
+8 = 47 letters
+9 = 47 letters
+10 = 45 letters
+11 = 47 letters
+12 = 52 letters
+13 = 42 letters 
+14 = 43 letters
+15 = 60 letters
+16 = 57 letters
+17 = 60 letters
+18 = 47 letters 
+19 = 48 letters
+20 = 50 letters
+21 = 59 letters
+22 = 52 letters
+
+total is = extraordinarily the number 1093 (in average per section you have 49,68181818181818 letters).
+
+Scripture (KJV) :
+
+                Lamentations 4
+
+
+1. How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.
+
+2. The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!
+
+3. Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.
+
+4. The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.
+
+5. They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.
+
+6. For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.
+
+7. Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:
+
+8. Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
+
+9. They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.
+
+10. The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.
+
+11. The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.
+
+12. The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
+
+13. For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,
+
+14. They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.
+
+15. They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.
+
+16. The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.
+
+17. As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.
+
+18. They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
+
+19. Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.
+
+20. The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.
+
+21. Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
+
+22. The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.

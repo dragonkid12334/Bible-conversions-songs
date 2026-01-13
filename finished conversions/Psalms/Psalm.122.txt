@@ -1,0 +1,80 @@
+                      PSALM 122                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+A.( C/[ b.a.c ] A/[ g.a.d.b.f.a ] C/[ b.a.f.a ] B/[ b.a.c.a.a ] A/[ c.a.a.c.a.a ] C/[ b.a ] B/[ c.a.a ] C/[ a.g.f.g ] B/[ g.b.c ])
+
+C.( C/[ d.a.a.f.a ] C/[ g.a.f ] A/[ c.b.b.a.g.f ] D/[ c.b.d.c.a.c ] B/[ a.c.f.b.b.a ])
+
+B.( B/[ a.c.f.b.b.a ] G/[ g.c.g.f.a.g ] F/[ c.d.a.c ] B/[ b.c.c.c.g ] F/[ b.g ] A/[ a.c.a.f ])
+
+A.( F/[ b.b.a ] B/[d.b.f ] B/[ b.c.b.a.a ] C/[ b.c.b.a ] B/[ a.g ] A/[ d.a.f.a ] F/[ b.a.b.c.a.b ] B/[ b.a.a.f.a ] G/[ b.b.a ] C/[ a.g.f.g ])
+
+G.( A/[ c.a ] C/[ b.a.g ] F/[ a.b.c.f ] C/[ c.f.a.f.a ] A/[ b.a.b.c.b ] C/[ c.f.a.f.a ] A/[ b.c.a.a ] A/[ a.f.a ])
+
+F.( D/[ b.a.b.f ] A/[ b.b.f.a ] B/[ a.c.f.b.b.a ] F/[ a.b.b.a.f ] B/[ a.g.c.a.c ])
+
+D.( B/[ a.g.a ] A/[ b.b.f.a ] C/[ c.c.a.b.c ] C/[ b.b.f.g ] C/[ c.a.c.a.g.f.a.a.c ])
+
+C.( A/[ b.a.d.g ] F/[ a.c.a ] A/[ f.c.d.a ] F/[ a.a.c.c.g ] A/[ g.a ] A/[ b.b.f.a ] C/[ c.c ])
+
+B.( A/[ b.a.d.g ] F/[ c.a.a ] C/[ a.g.f.g ] C/[ a.b.g.a.g.f ] A/[ a.c.a.b.g ] A/[ b.f.c ] B/[ b.c ])
+
+
+
+           .CALCULATIONS for the total.
+
+9.main sections = the following =
+
+1 = 10 sections
+2 = 6 sections
+3 = 7 sections
+4 = 10 sections
+5 = 9 sections
+6 = 6 sections
+7 = 6 sections
+8 = 8 sections
+9 = 8 sections
+
+
+in total it has = 70 distinct sections on the song, and on average 7,777777777777778 sections per line (70 / 9 = 7,777777777777778) :
+
+numbers/ letters included in the whole song=
+
+1 = 37 letters
+2 = 27 letters
+3 = 28 letters
+4 = 40 letters
+5 = 32 letters
+6 = 25 letters
+7 = 26 letters
+8 = 25 letters
+9 = 28 letters
+
+
+total is = extraordinarily the number 268 (in average per section you have 29,77777777777778 letters).
+
+Scripture (KJV) :
+
+                Psalm.122.1-9
+
+1. (A Song of degrees of David.) I was glad when they said unto me, Let us go into the house of the LORD.
+
+2. Our feet shall stand within thy gates, O Jerusalem.
+
+3. Jerusalem is builded as a city that is compact together:
+
+4. Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
+
+5. For there are set thrones of judgment, the thrones of the house of David.
+
+6. Pray for the peace of Jerusalem: they shall prosper that love thee.
+
+7. Peace be within thy walls, and prosperity within thy palaces.
+
+8. For my brethren and companions' sakes, I will now say, Peace be within thee.
+
+9. Because of the house of the LORD our God I will seek thy good.
+
