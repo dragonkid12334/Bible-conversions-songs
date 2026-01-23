@@ -1,0 +1,309 @@
+                      GENESIS 8.8-12                                                                                                              
+                    only letters                                                                                                              
+                 Based on the Letters   
+                     all notes :
+
+                                                                                  
+C.( A/[ f.a.b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] B/[ a.a.a.f ] C/[ b.c.a.f.a ] B/[ g.a.b.f ] C/[ g.a.a.a ] A/[ a.d.b ] A/[ c.g.a ] C/[ g.a.a.a.g ])
+
+B.( F/[ f.b.a ] A/[ a.b.a.g ] G/[ g.a.f.g.g ] C/[ a.g.f.c ] B/[ b.c.c ] D/[ c.b.b.g ] B/[ f.a.b.c ] G/[ a.b.a.f ] C/[ a.b ] A/[ g.a.c.g ] A/[ c.a ] G/[ a.a.a ] C/[ d.b ] A/[ c.g.a ] B/[ c.b ] C/[ g.a.c.b ] A/[ f.a.b.b.c ] D/[ a.a.f ] A/[ f.a.a.c.g ] A/[ f.a.c.a ] F/[ a.a.g ] G/[ a.b.a.f ] C/[ a.b ] A/[ g.a.c.g ])
+
+A.( B/[ f.a.c.b ] A/[ d.f.a ] A/[ b.c.d.a ] A/[ a.a.a.a ] C/[ a.c.c.a.a ] F/[ f.a.f.c ] A/[ b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] D/[ a.g ] A/[ g.a.c.g ])
+
+B(*A+A).( D/[ f.a.c.a ] G/[ a.b.a.f ] G/[ g.a.f.g.g ] C/[ b.d.a ] D/[ d.c.c ] F/[ f.g.g.g ] C/[ d.b.g ] C/[ d.a.a ] F/[ b.c.c ] A/[ c.c.a.g ] B/[ f.a.a.d ] C/[ g.c ] A/[ c.a ] F/[ a.b.f ] C/[ g.a.a.a ] A/[ a.d.b ] C/[ g.a.c.b ])
+
+A(*A+C).( C/[ f.a.a.c.b ] A/[ d.f.a ] A/[ b.c.d.a ] A/[ a.a.a.a ] C/[ a.c.c.a.a ] A/[ f.a.b.b.c ] B/[ a.a ] G/[ g.a.f.g.g ] F/[ f.b.a ] G/[ a.f.c.g ] D/[ b.f.c ] G/[ a.b.a.f ] A/[ d.f.a ])
+
+
+
+           .CALCULATIONS for the total.
+
+5.main sections = the following =
+
+1 = 11 sections
+2 = 25 sections
+3 = 12 sections
+4 = 18 sections
+5 = 14 sections
+
+in total it has = 80 distinct sections on the song, and on average 16 sections per line (80 / 5 = 16) :
+
+numbers/ letters included in the whole song=
+
+1 = 41 letters
+2 = 84 letters
+3 = 41 letters
+4 = 60 letters
+5 = 52 letters
+
+total is = extraordinarily the number 278 (in average per section you have 3,475).
+Scripture (KJV) :
+
+                Genesis.8.8-12
+
+8. Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
+
+9. But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.
+
+10. And he stayed yet other seven days; and again he sent forth the dove out of the ark;
+
+11. And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth.
+
+12. And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more.
+
+
+Conversion Sheet :
+
+
+1 , 7 = A = ALEPH,DALETH,JOD,MEM,KOPH,TAU.     4 = D = ZAIN,AIN.
+
+2 , 8 = B = GIMEL,TETH,LAMED,TZADDI,SCHIN.     5 = F = VAU,SAMECH.
+
+3 , 9 = C = BETH,CHETH,CAPH,PE,RESH.      6 = G = HE,NUN.
+
+conversion sheet:
+
+A = (music theory) C = do
+
+B = (music theory) D = re
+
+C = (music theory) E = mi
+
+D = (music theory) F = fa
+
+F = (music theory) A = la
+ 
+G = (music theory) B = si
+
+E = (music theory) G = sol
+
+this is a simplified version of the system, it was discovered by the channel Calming harp ministry on youtube
+
+Sheet for the notes that are included :
+
+Tempo 108
+         Genesis CH.8 V.8
+
+
+FRASES: Efects ; Fruity Reeverb 2 preset O
+
+E6 C7 D7 C6 B6 D6 F6 D6 E6 C6 C6 E7 = School piano
+
+E4 C5 D5 C4 B4 D4 F4 D4 E4 C4 C4 E5 = Concert piano
+
+
+Tempo 109
+         Genesis CH.8 V.9
+
+
+FRASES: Efects ; Fruity Reeverb 2 preset O
+
+D6 A6 C7 B6 E6 D6 A6 D6 B6 E7 C6 C6 B6 E6 C6 D7 E7 C7 F6 B6 F6 C7 C7 A6 B6 E7 C6 = School piano
+
+D4 A4 C5 B4 E4 D4 A4 D4 B4 E5 C4 C4 B4 E4 C4 D5 E5 C5 F4 B4 F4 C5 C5 A4 B4 E5 C4 = Concert piano
+
+
+Tempo 110
+         Genesis CH.8 V.10
+
+
+FRASES: Efects ; Fruity Reeverb 2 preset O
+
+C6 D7 C7 C6 C7 E6 A6 C6 D7 B6 F6 C6 = School piano
+
+C4 D5 C5 C4 C7 E4 A4 C4 D5 B4 F4 C4 = Concert piano
+
+
+Tempo 111
+         Genesis CH.8 V.11
+
+
+FRASES: Efects ; Fruity Reeverb 2 preset O
+
+D6 F6 B6 B6 C6 F6 A6 E7 E6 A6 C6 D7 E7 C6 A6 E6 C6 E7 = School piano
+
+D4 F4 B4 B4 C4 F4 A4 E5 E4 A4 C4 D5 E5 C4 A4 E4 C4 E5 = Concert piano
+
+
+Tempo 112
+         Genesis CH.8 V.12
+
+
+FRASES: Efects ; Fruity Reeverb 2 preset O
+
+C6 E7 C7 C6 C7 E6 C7 D7 B6 A6 B6 E6 B6 C7 = School piano
+
+C4 E5 C5 C4 C5 E4 C5 D5 B4 A4 B4 E4 B4 C5 = Concert piano
+
+Fl keys/piano keys used : (if used  use the preset Harp and Pipe)
+
+C4 , C5 , C6 , C7 , C8 , C9 , D4 , D5 , D6 , D7 , D8 , E4 , E5 , E6 , E7 , E8 , F4 , F5 , A4 , A5 , B4 , B5
+
+Do   Do   Do   Do   Do   Do   Re   Re   Re   Re   Re   Mi   Mi   Mi   Mi   Mi   Fa   Fa   La   La   Si   Si
+
+
+
+
+
+
+Sections : ( look at the conversion sheet)
+
+C5
+
+  F4  A6  B8  B6  C5
+
+  A4  A9  
+
+  G4  A6  F4  G5  G4
+
+  A7  A4  A9  F4
+
+  B6  C8  A4  F4  A9
+
+  G4  A8  B6  F4
+
+  G4  A7  A6  A7
+
+  A7  D5  B6
+
+  C7  G5  A6
+
+  G4  A1  A5  A7  G4
+
+B5
+
+  F4  B6  A4
+
+  A7  B7  A4  G4
+
+  G4  A6  F4  G5  G4
+
+  A7  G5  F4  C5
+
+  B8  C6  C7
+
+  C8  B4  B6  G4
+
+  F4  A9  B8  C4
+
+  A4  B6  A6  F4
+
+  A4  B6
+
+  G4  A9  C4  G4
+
+  C6  A6
+
+  A7  A6  A7
+
+  D5  B6
+
+  C7  G5  A6
+
+  C6  B6
+
+  G4  A4  C8  B7
+
+  F4  A6  B8  B6  C5
+
+  A6  A5  F4
+
+  F4  A6  A8  C5  G4
+
+  F4  A6  C4  A4
+
+  A4  A9  G4
+
+  A4  B6  A6  F4
+
+  A4  B6
+
+  G4  A9  C4  G4 
+
+A6
+
+  F4  A6  C5  B6
+
+  D5  F4  A5
+
+  B8 C4 D5 A9
+
+  A6  A7  A6  A7
+
+  A4  C5  C8  A6  A7
+
+  F4  A6  F5  C7
+
+  B8  B6  C5
+
+  A4  A9
+
+  G4  A6  F4  G5  G4
+
+  A7  G5
+
+  G4  A9  C4  G4
+
+A6 A1
+
+  F4  A9  C4  A4
+
+  A4  B6  A6  F4
+
+  G4  A6  F4  G5  G4
+
+  B6  D5  A9
+
+  D5  C8  C4
+
+  F6  G4  G5  G4
+
+  D5  B6  G4
+
+  D4  A6  A9
+
+  B5  C8  C7
+
+  C4  C7  A6  G4
+
+  F4  A6  A5  D5
+
+  G5  C5
+
+  C6  A6
+
+  A8  B6  F4
+
+  G4  A7  A6  A7
+
+  A7  D5  B6
+
+  G4  A4  C8  B7
+
+A6 C1
+
+  F4  A6  A6  C5  B6
+
+  D5  F4  A5
+
+  B8  C4  D5  A9
+
+  A6  A7  A6  A7
+
+  A4  C5  C8  A6  A7
+
+  F4  A6  B8  B6  C5
+
+  A4  A9
+
+  G4  A6  F4  G5  G4
+
+  F4  B6  A4
+
+  A6  F5  C7  G4
+
+  B8  F4  C4
+
+  A4  B6  A6  F4
+
+  D5  F4  A5
